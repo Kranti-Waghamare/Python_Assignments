@@ -6,6 +6,9 @@ def SumDigits(No):
     Digit = 0
     Sum = 0
 
+    if(No < 0):
+        No = -No
+
     while(No > 0):
         Digit = No % 10
 
