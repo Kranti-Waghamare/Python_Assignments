@@ -1,4 +1,4 @@
-#write a program which accepts one number and return true if number is odd otherwise false
+#write a lambda function which accepts one number and return true if number is odd otherwise false
 
 Odd = lambda No : (No % 2 != 0)
 
