@@ -8,10 +8,7 @@ def main():
 
     Ret = Even(Value)
 
-    if(Ret == True):
-        print("It is even number ")
-    else:
-        print("It is odd number")
+    print(Ret)
 
 if __name__ == "__main__":
     main()
