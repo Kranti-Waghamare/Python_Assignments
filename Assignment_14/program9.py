@@ -1,4 +1,4 @@
-#write a program which accepts two number and returns Addition.
+#write a lambda function which accepts two number and returns Addition.
 
 Mult = lambda No1, No2: No1 + No2
 
