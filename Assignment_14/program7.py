@@ -1,4 +1,4 @@
-#write a program which accepts one number and return true if number is divisible by 5
+#write a lambda function which accepts one number and return true if number is divisible by 5
 
 Divisible = lambda No : (No % 5 == 0)
 
