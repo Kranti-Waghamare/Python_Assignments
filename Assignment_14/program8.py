@@ -1,4 +1,4 @@
-#write a program which accepts two number and returns Multiplication.
+#write a lambda function which accepts two number and returns Multiplication.
 
 Mult = lambda No1, No2: No1 * No2
 
