@@ -1,4 +1,4 @@
-#write a program which accepts one number and return maximum number.
+#write a lambda function which accepts one number and return maximum number.
 
 Max = lambda No1 , No2: No1 if No1 > No2 else No2
 
