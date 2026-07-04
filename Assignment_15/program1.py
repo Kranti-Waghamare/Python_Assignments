@@ -3,7 +3,16 @@
 Square = lambda No : No * No
 
 def main():
-    Data = [2, 8, 19, 6, 15,]
+    Data = []
+
+    print("Enter the number of elements : ")
+    Size = int(input())
+
+    print("Enter the elements : ")
+
+    for i in range(Size):
+        no = int(input())
+        Data.append(no)
 
     print("Input Data is ", Data)
 
