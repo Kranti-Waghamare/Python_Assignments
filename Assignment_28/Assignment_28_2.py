@@ -1,5 +1,5 @@
 '''
-Q. count lines in a file
+Q. count words in a file
 write a program which accepts a file name from the user and counts total number of words in that file.
 
 input : Demo.txt
