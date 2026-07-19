@@ -1,5 +1,5 @@
 '''
-Q. count lines in a file
+Q. Display file line by line
 write a program which accepts a file name from the user and displays contents of the file line by line on the screen.
 
 input : Demo.txt
